@@ -43,7 +43,12 @@ Algorithm for Java Program to Find Minimum Repairing Cost and Localities for a C
 
 <hr>
 
+<h2>Output Images</h2>
+<p>Output images of the code can be viewed at 👉 <a href="https://github.com/mayankbohra/minimum-repairing-cost/tree/main/Output-Images">Link</a></p>
+
+<hr>
+
 <h2>Connect With Me: </h2>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mayank-bohra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-bohra/" height="30" width="40" /></a><a href="https://instagram.com/https://www.instagram.com/mayank.bohra_06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mayank.bohra_06/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mayank-bohra/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mayank-bohra/" height="30" width="40" /></a><a href="https://www.instagram.com/mayank.bohra_06/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mayank.bohra_06/" height="30" width="40" /></a>
 </p>
